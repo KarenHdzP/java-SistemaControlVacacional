@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Karen Hernandez Peña
+Main-Class: Bienvenida
+X-COMMENT: Examen final de fundamentos de programacion
+java -jar Sistema.jar
